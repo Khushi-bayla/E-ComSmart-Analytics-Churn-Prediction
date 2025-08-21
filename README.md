@@ -43,3 +43,13 @@ Languages/Tools: Python, SQL
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ML Models: Random Forest, Churn Detection Models
+
+📈 Key Results
+
+1.) Achieved MSE = 0.365 for review score prediction
+
+2.) Detected 12% customer churn rate
+
+3.) Identified key churn drivers → cancellations, delivery delays, low ratings
+
+4.) Uncovered top product categories & customer trends for business strategy
